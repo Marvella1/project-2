@@ -10,7 +10,7 @@ public class HelloCcontroller {
 
     @GetMapping(value = "/")
     public String Hello() {
-        return "Hello vistula"; // Maps to src/main/resources/templates/index.html
+        return "Hello vistula  "; //  Maps to src/main/resources/templates/index.html
     }
     @GetMapping("/greeting")
     public String greeting(@RequestParam(name = "name", required = false, defaultValue = "World") String name, Model model) {

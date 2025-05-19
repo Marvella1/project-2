@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54d1f023-cde9-4e7a-9999-b39595dc9da7" name="Changes" comment="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/FirstProjetJavaSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/FirstProjetJavaSpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/HelloCcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/Vistula/first_projet_java_spring/HelloCcontroller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eliemulolo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Marvella1/project-2.git",
+    "accountId": "bfc001e4-04f7-4d28-affa-99744e5fd2fb"
+  }
+}]]></component>
+  <component name="HttpClientEndpointsTabState">
+    <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;5e0bb8c26ee2e09f35261b9527fdb886992ca931&quot; value=&quot;###&amp;#10;GET http://localhost:8080/greeting?&amp;#10;    name={{$random.alphanumeric(8)}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wxaKPHbmzXWJhrVBRHk41ZL2K5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "HTTP Request.All in generated-requests.executor": "Run",
+    "HTTP Request.All in whats-new.executor": "Run",
+    "HTTP Request.first_projet_java_spring-endpoints_1 | #1.executor": "Run",
+    "HTTP Request.generated-requests | #1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.FirstProjetJavaSpringApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java devoires/first-projet-java-spring/first-projet-java-springmarvela/src/main/resources/static/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java devoires\first-projet-java-spring\first-projet-java-springmarvela\src\main\resources\static\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FirstProjetJavaSpringApplication">
+    <configuration name="All in generated-requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="All in whats-new" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$USER_HOME$/AppData/Local/Temp/whats-new-dir/whats-new.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="first_projet_java_spring-endpoints_1 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/first_projet_java_spring-endpoints_1.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstProjetJavaSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="first-projet-java-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.edu.Vistula.first_projet_java_spring.FirstProjetJavaSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.first_projet_java_spring-endpoints_1 | #1" />
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+        <item itemvalue="HTTP Request.All in whats-new" />
+        <item itemvalue="HTTP Request.All in generated-requests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Physical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d1f023-cde9-4e7a-9999-b39595dc9da7" name="Changes" comment="" />
+      <created>1746985613747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746985613747</updated>
+      <workItem from="1746985615828" duration="6439000" />
+      <workItem from="1746992421535" duration="679000" />
+      <workItem from="1746997566676" duration="1171000" />
+      <workItem from="1746998776886" duration="7033000" />
+      <workItem from="1747006170255" duration="4043000" />
+      <workItem from="1747010260009" duration="2084000" />
+      <workItem from="1747012375772" duration="400000" />
+      <workItem from="1747012819346" duration="4294000" />
+      <workItem from="1747415241526" duration="17000" />
+      <workItem from="1747420116492" duration="852000" />
+      <workItem from="1747594221434" duration="437000" />
+      <workItem from="1747649964583" duration="8989000" />
+      <workItem from="1747667086685" duration="7890000" />
+      <workItem from="1747675454217" duration="5407000" />
+    </task>
+    <task id="LOCAL-00001" summary="version 0000">
+      <option name="closed" value="true" />
+      <created>1747015307930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747015307930</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version 0000">
+      <option name="closed" value="true" />
+      <created>1747679574740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747679574740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747680139607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747680139607</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747680191807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747680191807</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747680299808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747680299808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747680519508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747680519508</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747680849479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747680849479</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder.">
+      <option name="closed" value="true" />
+      <created>1747680934930</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747680934930</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 0000" />
+    <MESSAGE value="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update HelloCcontroller and greeting.html; add index.html&#10;&#10;- Changed the root mapping method to return a greeting message.&#10;- Enhanced greeting.html with improved styling and additional content.&#10;- Added a new index.html file as a placeholder." />
+  </component>
+</project>
