@@ -1,28 +1,6 @@
-Spring Boot Project
-Overview
-This project is a Spring Boot application developed as part of an academic exercise at Akademia Finansów i Biznesu Vistula.
-The application showcases the fundamental
- steps involved in creating a Spring Boot project, writing a Spring controller, and handling HTTP requests.
+This project is my first web application developed using Java and Spring Boot as part of my computer engineering studies. The main goal is to learn the basics of Spring Boot project structure, manage dependencies with Maven, and implement a controller to handle web requests.
 
-Features
-Spring Boot Integration: Utilizes Spring Boot to streamline the setup and configuration of the application.
-First Spring Controller: Implements a basic Spring controller to handle HTTP GET requests.
-HTTP Request Handling: Demonstrates the use of the @ResponseBody annotation to return responses directly from the controller.
-MVC Architecture: Incorporates elements of the Model-View-Controller (MVC) design pattern to return views.
-Thymeleaf Integration: Uses Thymeleaf as the template engine for rendering HTML views.
-Static Resources: Includes static resources such as images to enhance the frontend.
-Project Structure
-Controller: Contains the logic for handling HTTP requests and returning responses.
-Templates: Holds the HTML files used for rendering views.
-Static: Stores static resources like images.
-Key Components
-Controller
-The controller is responsible for handling HTTP GET requests and returning responses. It includes endpoints such as /hello and /greeting.
+The project uses modern tools such as Lombok to reduce boilerplate code, Thymeleaf for rendering HTML pages, and Spring Web to handle HTTP requests.
+As a first step, I created a dedicated package that contains a class acting as the first controller of the application. This controller is responsible for testing the initial setup and displaying a basic page in the browser.
 
-
-
-Conclusion
-This Spring Boot project serves as a practical example of setting up a Spring Boot application, creating controllers, handling HTTP requests,
-and integrating
-Thymeleaf for view rendering. It provides a solid foundation for further development and exploration of Spring Boot features.
-
+This project serves as the foundation on which I will build more advanced features in the future.
